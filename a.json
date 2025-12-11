@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Graduate #1",
+      "description": "Certificate of completion for Blockchain Basics",
+      "image": "ipfs://bafkreifmbubu2uetqcne5eg5q2xcarxu5kkibylxk5vnwojk64gp4kihwi",
+      "attributes": [
+        {"trait_type": "Program", "value": "Blockchain Basics"},
+        {"trait_type": "Grade", "value": "A"},
+        {"trait_type": "Year", "value": "2025"}
+      ]
+    },
+    {
+      "name": "Graduate #2",
+      "description": "Certificate of completion for Smart Contract Development",
+      "image": "ipfs://bafybeicslkzgoyncoimd2nppofbfp6zv5rg5s3h3uversi3ea62r3lys5u",
+      "attributes": [
+        {"trait_type": "Program", "value": "Smart Contract Development"},
+        {"trait_type": "Grade", "value": "B"},
+        {"trait_type": "Year", "value": "2025"}
+      ]
+    },
+    {
+      "name": "Graduate #3",
+      "description": "Certificate of completion for DApp Development",
+      "image": "ipfs://bafybeia7dixfmekekugmfglcis3ahsj34obwi2lcvb6km2ht2sjrkyskz4",
+      "attributes": [
+        {"trait_type": "Program", "value": "DApp Development"},
+        {"trait_type": "Grade", "value": "A+"},
+        {"trait_type": "Year", "value": "2025"}
+      ]
+    },
+    {
+      "name": "Graduate #4",
+      "description": "Certificate of completion for NFT Creation",
+      "image": "ipfs://bafybeic6ia73enwwbw3oq7slovljnhsu4pmdu3iokotelbklmn6s365rim",
+      "attributes": [
+        {"trait_type": "Program", "value": "NFT Creation"},
+        {"trait_type": "Grade", "value": "A"},
+        {"trait_type": "Year", "value": "2025"}
+      ]
+    }
+  ]
+  
